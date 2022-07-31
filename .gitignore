@@ -120,8 +120,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # adddddddddddd
-*.classpath
-*.project
 META-INF/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,java,web
